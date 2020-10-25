@@ -1,0 +1,7 @@
+*.json
+*.pk
+logs/
+.python-version
+jobs/
+.cfg
+!classification.json
